@@ -71,7 +71,7 @@ re = /\d+/; //match any digit 0 or more times
 
 re = /\D+/; //match any non-digit
 
-// re.test(string here) to test
+// re.test(string here) to tests
 
 
 
